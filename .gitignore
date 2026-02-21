@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated files
+*.mid
+*.midi
+debug_*.jpg
+
+# Video files (too large for git)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+
+# macOS
+.DS_Store
