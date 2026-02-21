@@ -186,7 +186,7 @@ class SynthesiaExtractor:
                         state['active'] = False
                         state['start_time'] = None
 
-                frame_num += 1
+            frame_num += 1
 
         # Close remaining notes
         final_time = self.total_frames / self.fps
